@@ -11,7 +11,7 @@ print(attempt2)
 
 # 12.2. cube of a number
 def cube(a):
-    res = a**a
+    res = a**3
     return res
 
 attempt3 = cube(3)
